@@ -1,2 +1,3 @@
-# Project-Node.js
-This repo for store Node.js Project
+# HR Management System
+
+This is a HR Management System
